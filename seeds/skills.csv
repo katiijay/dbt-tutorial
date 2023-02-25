@@ -1,0 +1,21 @@
+Skill_ID,Skill_Name,Skill_Use,Skill_Type,Start,End,Duration_Months,Duration_Years,Experience_Details
+Amahift,Amazon Redshift,Work,Tool/Language,05/01/2018,2/24/2023,57,5,"Own and manage a Redshift cluster, including users and security, maintenance, resource balancing, identifying poor query performers, and schema permissions and management. "
+AmaAWS),Amazon Web Services (AWS),Work,Tool/Language,05/01/2018,2/24/2023,57,5,"Primarily experienced in AWS products S3, Redshift, and EC2, along with IAM permissions and other security. "
+Datysis,Data Analysis,Both,Soft Skill,05/01/2016,2/24/2023,81,7,"Given a dataset I'm experienced with, my favorite meeting ""party trick"" is to pull data to answer a question within 5 minutes of it being asked. "
+Busumen,Business Acumen,Work,Soft Skill,12/01/2012,2/24/2023,122,10,"My work starts with understanding the business to ensure that what I deliver not only can answer data questions, but can also answer the next questions that haven't been asked yet."
+Comtion,Communication,Work,Soft Skill,12/01/2012,2/24/2023,122,10,"Communicate new data launches, interpret data, and explain defects/limitations to executive leadership, technical and non-technical audiences, and peer teams. "
+Dasards,Dashboards,Both,Hard Skill,05/01/2018,2/24/2023,57,5,"I primarily work in Tableau, but also have experience visualizing in Excel and QuickSight. "
+Datring,Data Engineering,Work,Hard Skill,05/01/2018,2/24/2023,57,5,"Consuming unstructured data from S3, setting up ingestion schedules, incremental ingestions and updates, data sorting and partitioning, and managing infrastructure spend. "
+Datance,Data Governance,Work,Soft Skill,03/01/2019,2/24/2023,47,4,"Have worked as the primary owner for Analytics resources, managing access regimes, DPIA disclosures, and sequestering data based on PII. "
+Datdels,Data Models,Work,Hard Skill,05/01/2018,2/24/2023,57,5,"Design, develop, implement and document data models both new and within existing data models. End-to-end ownership of the model within relational data infrastructure. "
+Datines,Data Pipelines,Work,Hard Skill,05/01/2018,2/24/2023,57,5,Developed and implemented scheduled data jobs and dependencies to deliver data from source to end users. 
+Datsing,Data Warehousing,Work,Hard Skill,05/01/2018,2/24/2023,57,5,"Experience with star/snowflake data, denormalized column-heavy data, and event vs. dimensional data. "
+ExtETL),"Extract, Transform, Load (ETL)",Work,Hard Skill,05/01/2018,2/24/2023,57,5,Worked within several Amazon propriatary ETL systems and AWS Redshift. Familiarity with DBT and Python for job management. Transformed data to and from normalized and denormalized schemas for users. 
+Excxcel,Excel,Both,Tool/Language,12/01/2012,2/24/2023,122,10,"Excel/Spreadsheeting tools were my gateway into relational data and I'm an adept user, even though most of my time is spent in bigger data technologies these days. "
+Opeions,Operations,Work,Soft Skill,12/01/2012,2/24/2023,122,10,"Experience developing, streamlining and documenting operational processes both within my team and on behalf of others. Translate operational processes into requirements for automation. "
+Pytthon,Python,Both,Tool/Language,05/01/2021,2/24/2023,21,2,Primarily worked with updating/implementing existing code to work for my use cases. 
+SQLSQL,SQL,Both,Tool/Language,05/01/2016,2/24/2023,81,7,Advanced SQL skills (PostGres/Redshift SQL). Strong bias towards optimized queries and readable code. 
+Tableau,Tableau,Both,Tool/Language,05/01/2018,2/24/2023,57,5,"Advanced Tableau skills: Can create any functional reporting with Tableau out of the box features. Can build unique visual options customizations, and novel charts. "
+DBTDBT,DBT,Personal,Tool/Language,01/01/2023,2/24/2023,1,0,Familiar with DBT from personal projects. 
+Lininux,Linux,Work,Tool/Language,02/01/2022,2/24/2023,12,1,Linux experience to manage data infrastructure on EC2. Tableau and Redshift management on Linux. 
+MySySql,MySql,Personal,Tool/Language,08/01/2022,2/24/2023,6,1,Familiar with DBT from personal projects. 
